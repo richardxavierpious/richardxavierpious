@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi there! 👋 I'm Richard Xavier Pious  
 
-<!--
-**richardxavierpious/richardxavierpious** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 About Me  
+- 💻 Passionate about software development, analytics, and building impactful tools.
+- 🧠 Interested in AI, summarization, and solving real-world problems with code. 
+- 🎹 Music enthusiast: keyboard, guitar, and drums are my jam!  
+- 🌏 Based in India 🇮🇳  
+  
 
-Here are some ideas to get you started:
+### 🌱 Currently Learning  
+- Advanced NLP techniques for text summarization and diarization.  
+- Scaling applications using Docker and AWS. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💡 Fun Fact  
+I love writing clean code almost as much as I enjoy jamming on my drums. 🎵  
+
+### 📫 Let's Connect  
+- [LinkedIn](www.linkedin.com/in/richard-pious-a6226b31a)  
+- [Email](richardpiou369@gmail.com)  
+
+---
+
+🌟 _"Always curious, always coding."_ 🌟  
