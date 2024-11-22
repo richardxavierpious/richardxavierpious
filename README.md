@@ -8,16 +8,9 @@
   
 
 ### 🌱 Currently Learning  
-- Advanced NLP techniques for text summarization and diarization.  
-- Scaling applications using Docker and AWS. 
-
-### 💡 Fun Fact  
-I love writing clean code almost as much as I enjoy jamming on my drums. 🎵  
+- Advanced NLP techniques for text summarization and diarization.
 
 ### 📫 Let's Connect  
 - [LinkedIn](www.linkedin.com/in/richard-pious-a6226b31a)  
 - [Email](richardpiou369@gmail.com)  
 
----
-
-🌟 _"Always curious, always coding."_ 🌟  
