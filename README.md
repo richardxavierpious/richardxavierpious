@@ -3,7 +3,6 @@
 ### 🚀 About Me  
 - 💻 Passionate about software development, analytics, and building impactful tools.
 - 🧠 Interested in AI, summarization, and solving real-world problems with code. 
-- 🎹 Music enthusiast: keyboard, guitar, and drums are my jam!  
 - 🌏 Based in India 🇮🇳  
   
 
